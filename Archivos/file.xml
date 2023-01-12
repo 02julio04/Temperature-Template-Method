@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <row>
+        <id>1</id>
+        <location>Santo Domingo</location>
+        <date>2020-01-12</date>
+        <measure>21.3</measure>
+    </row>
+    <row>
+        <id>2</id>
+        <location>Atlante</location>
+        <date>2020-01-12</date>
+        <measure>29.1</measure>
+    </row>
+     <row>
+        <id>3</id>
+        <location>Panama</location>
+        <date>2020-01-12</date>
+        <measure>19.3</measure>
+    </row>
+</data>

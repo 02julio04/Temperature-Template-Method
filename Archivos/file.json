@@ -1,0 +1,8 @@
+{
+    "location": "Pensilvania",
+    "measures": [
+      {"date": "2020-01-12", "temperature": 15.5},
+      {"date": "2020-01-12", "temperature": 22.2},
+      {"date": "2020-01-12", "temperature": 27.3}
+    ]
+  }
