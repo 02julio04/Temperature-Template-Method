@@ -25,17 +25,30 @@ id|location|date|measure
 - XML File
 
 ```html
+<?xml version="1.0" encoding="UTF-8"?>
 <data>
-  <?xml version="1.0" ?>
-<temperatures>
-  <minimo>19.3</minimo>
-  <maximo>29.1</maximo>
-  <average>23.233333333333334</average>
-</temperatures>
+    <row>
+        <id>1</id>
+        <location>Santo Domingo</location>
+        <date>2020-01-12</date>
+        <measure>21.3</measure>
+    </row>
+    <row>
+        <id>2</id>
+        <location>Atlante</location>
+        <date>2020-01-12</date>
+        <measure>29.1</measure>
+    </row>
+     <row>
+        <id>3</id>
+        <location>Panama</location>
+        <date>2020-01-12</date>
+        <measure>19.3</measure>
+    </row>
 </data>
 ```
 
 # Diagrama UML
 
-[![Diagrama-uml.png](https://i.postimg.cc/d1JQDMjC/Diagrama-uml.png)](https://postimg.cc/d7ScSxXQ)
+[![Diagrama-en-blanco-P-gina-3.png](https://i.postimg.cc/FKWnq8Hv/Diagrama-en-blanco-P-gina-3.png)](https://postimg.cc/PLD4v6DV)
 
