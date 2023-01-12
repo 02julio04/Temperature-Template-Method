@@ -1,16 +1,18 @@
 # Temperature-Record-Summary🥵🌡️🥶
 
-### Temperature Record : Min, Max, Average
+### Temperature Data : Minimo, Maximo, Average
 -----------------
 -----------------
 ### Archivos:
 - Flat File
+```html
 id|location|date|measure
 1|Pensilvania|2020-01-12|25.6
 2|Brooklyn|2020-01-12|21.2
 3|Boston|2020-01-12|36.4
-
+ ```
 - JSON
+```html
 {
     "location": "Pensilvania",
     "measures": [
@@ -19,6 +21,7 @@ id|location|date|measure
       {"date": "2020-01-12", "temperature": 27.3}
     ]
   }
+  ```
 - XML File
 
 ```html
@@ -34,5 +37,5 @@ id|location|date|measure
 
 # Diagrama UML
 
-[![Captura-de-pantall.png](https://i.postimg.cc/Vs9L2gP5/Captura-de-pantall.png)](https://postimg.cc/hhjBd9jq)
+[![Diagrama-uml.png](https://i.postimg.cc/d1JQDMjC/Diagrama-uml.png)](https://postimg.cc/d7ScSxXQ)
 
