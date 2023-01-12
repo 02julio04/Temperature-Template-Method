@@ -1,4 +1,4 @@
-# Temperature-Record-Summary🥵🌡️🥶
+# Template Method 
 
 ### Temperature Data : Minimo, Maximo, Average
 -----------------
